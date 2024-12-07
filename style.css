@@ -1,0 +1,19 @@
+body{
+    background-color: burlywood;
+}
+h1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:brown;
+}
+h2{
+    font-family: serif;
+    
+}
+footer{
+    background-color: darkolivegreen;
+}
+.p2{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: blueviolet;
+    margin: 20px;
+}
